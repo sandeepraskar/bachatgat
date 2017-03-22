@@ -13,7 +13,7 @@ header("location: home.php");
 </head>
 <body>
 <div id="main">
-<h1>PHP Login Session</h1>
+<h1>PHP Login Session test</h1>
 <div id="login">
 <h2>Login Form</h2>
 <form action="" method="post">
